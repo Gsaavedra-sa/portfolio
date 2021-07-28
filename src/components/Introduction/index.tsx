@@ -3,15 +3,13 @@ import * as IntroductionStyles from './styles';
 export const Introduction = () => {
   return (
     <IntroductionStyles.IntroductionContainer>
-      <img src="https://github.com/gsaavedra-sa.png" alt='introduction image' />
+      <img src="/images/cloud-migration-final-blog.jpg" alt='introduction image' />
 
       <IntroductionStyles.IntroductionText>
-        <h1>Hello there!</h1>
+        <h1>Hi there!</h1>
         <p>
-          Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-          Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
-          Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-          Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+          I'm Gabriel Saito, System Analyst at Technisys Company.
+          I graduated in computer networks at the FATEC institution and graduated as a network technician at the SENAI institution.
         </p>
       </IntroductionStyles.IntroductionText>
 

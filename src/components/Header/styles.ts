@@ -13,8 +13,8 @@ export const NameAndAvatar = styled.div`
   align-items: center;
 
   img {
-    width: 25px;
-    height: 25px;
+    width: 35px;
+    height: 35px;
     border-radius: 50%;
     margin-right: 1rem;
   }

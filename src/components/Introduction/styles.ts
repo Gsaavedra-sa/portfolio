@@ -8,12 +8,12 @@ export const IntroductionContainer = styled.section`
 
   min-height: calc(100vh - 57px);
 
-  max-width: 800px;
+  max-width: 1000px;
   margin: 0 auto;
 
 
   img {
-    max-width: 320px;
+    max-width: 420px;
     width: 100%;
     height: auto;
   }
