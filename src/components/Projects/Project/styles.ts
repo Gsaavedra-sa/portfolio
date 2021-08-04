@@ -9,7 +9,14 @@ export const ProjectContainer = styled.section`
   display: flex;
   align-items: center;
   justify-content: space-between;
+  
+  img {
+    width: 100%;
+    max-width: 40rem;
+    height: auto;
+  }
 `;
+
 
 export const ProjectInfo = styled.div`
   display: flex;
@@ -45,7 +52,7 @@ export const Tech = styled.div`
 
 
   img {
-    max-width: 40px;
+    max-width: 50px;
     width: 100%;
     height: auto;
     filter: drop-shadow(0 0 0.8px #505050);

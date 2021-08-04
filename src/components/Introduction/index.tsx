@@ -3,7 +3,7 @@ import * as IntroductionStyles from './styles';
 export const Introduction = () => {
   return (
     <IntroductionStyles.IntroductionContainer>
-      <img src="/images/cloud-migration-final-blog.jpg" alt='introduction image' />
+      <img src="/images/engenheiro-de-software.jpg" alt='introduction image' />
 
       <IntroductionStyles.IntroductionText>
         <h1>Hi there!</h1>
