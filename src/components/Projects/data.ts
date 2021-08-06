@@ -51,7 +51,10 @@ export const projetos = [
         name: 'GitHub',
         icon: '/images/github-icon-1.svg'
       },
-      
+      {
+        name: 'Express',
+        icon: '/images/express-109.svg'
+      },
     ]
   },
 
