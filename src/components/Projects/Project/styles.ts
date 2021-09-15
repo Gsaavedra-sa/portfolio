@@ -38,6 +38,9 @@ export const ProjectInfo = styled.div`
 export const TechContainer = styled.div`
   margin-top: 5rem;
   display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
 
   span + span {
     margin-left: 1rem;
@@ -50,12 +53,10 @@ export const Tech = styled.div`
   align-items: center;
   justify-content: center;
 
-
   img {
-    max-width: 50px;
-    width: 100%;
+    width: 50px;
     height: auto;
-    filter: drop-shadow(0 0 0.8px #505050);
+    filter: drop-shadow(rgb(153, 153, 153) 0px 0px 10px);
   }
 
   img:hover {

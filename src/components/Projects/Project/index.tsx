@@ -16,7 +16,6 @@ export const Project: React.FC<ProjectProps> = ({ project }) => {
         <ProjectStyles.TechContainer>
           {project.tech.map((tech: any) => (
             <ProjectStyles.Tech>
-              {/* <span>{tech.name}</span> */}
               <img src={tech.icon} alt={tech.icon} />
             </ProjectStyles.Tech>
           ))}
