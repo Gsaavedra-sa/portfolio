@@ -10,6 +10,8 @@ export default function Home() {
   return (
     <>
       <Head>
+        <title>Gabriel Saito - Portfólio</title>
+        <link rel="icon" href="https://raw.githubusercontent.com/w1redl4in/portfolio/main/public/images/favicon.png" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet" />
