@@ -10,10 +10,11 @@ export const IntroductionContainer = styled.section`
 
   max-width: 1000px;
   margin: 0 auto;
+  
 
 
   img {
-    max-width: 420px;
+    max-width: 520px;
     width: 100%;
     height: auto;
   }

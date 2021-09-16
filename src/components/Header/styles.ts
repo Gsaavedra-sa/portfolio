@@ -10,8 +10,8 @@ export const HeaderContainer = styled.header`
 
   a {
     img {
-      height: 30px;
-      width: 30px;
+      height: 40px;
+      width: 40px;
       filter: drop-shadow(rgb(153, 153, 153) 0px 0px 2px);
 
 
@@ -29,8 +29,8 @@ export const NameAndAvatar = styled.div`
   align-items: center;
 
   img {
-    width: 35px;
-    height: 35px;
+    width: 45px;
+    height: 45px;
     border-radius: 50%;
     margin-right: 1rem;
   }

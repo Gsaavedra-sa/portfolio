@@ -7,7 +7,7 @@ export const projetos = [
     tech: [
       {
         name: 'AWS',
-        icon: '/images/aws-2.svg'
+        icon: '/images/aws.png'
       },
       {
         name: 'Azure',
@@ -18,13 +18,26 @@ export const projetos = [
         icon: '/images/download.png'
       },
       {
-        name: 'bitbucket',
+        name: 'Bitbucket',
         icon: '/images/bitbucket-icon.svg'
       },
       {
-        name: 'bitbucket',
+        name: 'GitHub',
+        icon: '/images/github-icon-1.svg'
+      },
+      {
+        name: 'Mysql',
         icon: '/images/mysql.png'
       },
+      {
+        name: 'Sql',
+        icon: '/images/sql-server.png'
+      },
+      {
+        name: 'Pfsense',
+        icon: '/images/pfsense.png'
+      },
+
       
     ]
   },
