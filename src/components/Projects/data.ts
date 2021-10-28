@@ -3,7 +3,7 @@ export const projetos = [
     name: 'System Analyst',
     company: 'Technisys Brasil',
     image: '/images/Technisys_Logo.jpg',
-    description: 'Im system Analyst at technisys',
+    description: 'Im System Analyst at Technisys',
     tech: [
       {
         name: 'AWS',
@@ -37,6 +37,59 @@ export const projetos = [
         name: 'Pfsense',
         icon: '/images/pfsense.png'
       },
+      {
+        name: 'Docker',
+        icon: '/images/docker.svg'
+      },
+
+      
+    ]
+  },
+
+  {
+    name: 'Infrastructure Analyst',
+    company: 'Ebix Latin America',
+    image: '/images/ebix-og-image.jpg',
+    description: 'Im Infrastructure Analyst at Ebix',
+    tech: [
+      {
+        name: 'AWS',
+        icon: '/images/aws.png'
+      },
+      {
+        name: 'Vmware',
+        icon: '/images/vmware-1.svg'
+      },
+      {
+        name: 'Linux',
+        icon: '/images/download.png'
+      },
+      {
+        name: 'GitHub',
+        icon: '/images/github-icon-1.svg'
+      },
+      {
+        name: 'Mysql',
+        icon: '/images/mysql.png'
+      },
+      {
+        name: 'Sql',
+        icon: '/images/sql-server.png'
+      },
+      {
+        name: 'Pfsense',
+        icon: '/images/pfsense.png'
+      },
+      {
+        name: 'Docker',
+        icon: '/images/docker.svg'
+      },
+      {
+        name: 'Windows',
+        icon: '/images/windows-server.svg'
+      },
+
+     
 
       
     ]
