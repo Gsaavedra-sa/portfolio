@@ -9,7 +9,7 @@ export const Introduction = () => {
         <h1>Hi there!</h1>
         <p>
           I'm Gabriel Saito, System Analyst at Technisys Company.
-          I'm studying for an MBA at USP.
+          I'm studying for a MBA at USP.
           I graduated in computer networks at the FATEC institution and graduated as a network technician at the SENAI institution.
         </p>
       </IntroductionStyles.IntroductionText>
